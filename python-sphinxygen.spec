@@ -3,7 +3,7 @@
 Summary:	A script to generate Sphinx ReST from Doxygen XML
 Name:	python-%{pyname}
 Version:	1.0.12
-Release:	1
+Release:	2
 License:	ISC
 Group:	Development/Python
 Url:		https://gitlab.com/drobilla/sphinxygen
